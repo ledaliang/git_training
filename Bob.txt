@@ -1,2 +1,3 @@
 Hi! I'm Bob. I'm new here.
 Now Bob has a second line too!
+Bob has more changes
